@@ -1,8 +1,8 @@
 /*
- * Miniproject2.c
+ * Main.c
  *
  *  Created on: Sep 16, 2023
- *      Author: hp
+ *      Author: manal
  */
 #include <avr/io.h>
 #include <util/delay.h>
